@@ -1,8 +1,5 @@
 ![I'm Data Scientist](https://github.com/Borjaa-P/Borjaa-P/blob/main/Blue%20Illustrated%20Technology%20General%20LinkedIn%20Banner.gif?raw=true)
 
-## Hi there 👋, My name is Borja
-#### I'm Data Scientist
-
 
 I' m from Spain and my two passions are Digital Marketing and Data Science, and I believe that combining these two disciplines can lead to great synergies. 
 
