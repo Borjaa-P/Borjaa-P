@@ -2,9 +2,7 @@
 
 
 I' m from Spain and my two passions are Digital Marketing and Data Science, and I believe that combining these two disciplines can lead to great synergies. 
-
 To improve my skills I did a Data Science Bootcamp, since then I don't want to stop discovering new things.
-
 I invite you to visit my profile 
 
 #### Skills & Experiencet
