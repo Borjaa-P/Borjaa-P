@@ -1,7 +1,7 @@
 ![I'm Data Scientist](https://github.com/Borjaa-P/Borjaa-P/blob/main/Blue%20Illustrated%20Technology%20General%20LinkedIn%20Banner.gif?raw=true)
 
 
-I' m from Spain and my two passions are Digital Marketing and Data Science, and I believe that combining these two disciplines can lead to great synergies. 
+I' m from Spain and my two passions are Digital Marketing & Data Science. I believe that combining these two disciplines can lead to great synergies. 
 To improve my skills I did a Data Science Bootcamp, since then I don't want to stop discovering new things.
 I invite you to visit my profile 
 
