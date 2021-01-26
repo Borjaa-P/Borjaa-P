@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, My name is Borja
+#### I'm Data Scientist
+![I'm Data Scientist](file:///C:/Users/BORJA/Downloads/Blue%20Illustrated%20Technology%20General%20LinkedIn%20Banner.gif)
 
-<!--
-**Borjaa-P/Borjaa-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I I' m from Spain and my two passions are Digital Marketing and Data Science, and I believe that combining these two disciplines can lead to great synergies. 
+To improve my skills I did a Data Science Bootcamp, since then I don't want to stop discovering new things.
+I invite you to visit my profile 
 
-Here are some ideas to get you started:
+Skills: Python/SQL/R/Anaconda/Power BI/Microsoft Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on mi 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Borjaa-P)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/borja-páez-alonso-a28281160/)  
+
